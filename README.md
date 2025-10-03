@@ -9,5 +9,5 @@ de layout e boas práticas de desenvolvimento.
 - HTML5/CSS3
 
 ## Sobre o Projeto
-Este projeto foi construído seguindo passoa passo o acompanhamento do professor, mas com foco em **prática real** de 
-desenvolvimento e **aprimoramento de habilildades**. Serve como exemplo de como transformar um disign em interface funcional e responsiva.
+Este projeto foi construído seguindo passo a passo com acompanhamento do professor, mas com foco em **prática real** de 
+desenvolvimento e **aprimoramento de habilildades**. Serve como exemplo de como transformar um design em interface funcional e responsiva.
